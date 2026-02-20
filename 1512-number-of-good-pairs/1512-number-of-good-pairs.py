@@ -7,3 +7,4 @@ class Solution:
                 if nums[i] == nums[j] and i < j:
                     count = count + 1
         return count
+        
