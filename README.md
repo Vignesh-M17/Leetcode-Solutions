@@ -10,4 +10,16 @@ This could solutions for some of the leet code problems, this may help someones 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Vignesh-M17/Leetcode-Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/Vignesh-M17/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/Vignesh-M17/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/Vignesh-M17/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
