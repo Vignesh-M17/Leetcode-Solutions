@@ -19,6 +19,7 @@ This could solutions for some of the leet code problems, this may help someones 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0058-length-of-last-word](https://github.com/Vignesh-M17/Leetcode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0242-valid-anagram](https://github.com/Vignesh-M17/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
