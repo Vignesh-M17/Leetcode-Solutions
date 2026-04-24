@@ -5,6 +5,7 @@ This could solutions for some of the leet code problems, this may help someones 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/Vignesh-M17/Leetcode-Solutions/tree/main/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/) | Hard |
 | [1480-running-sum-of-1d-array](https://github.com/Vignesh-M17/Leetcode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Vignesh-M17/Leetcode-Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Vignesh-M17/Leetcode-Solutions/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
@@ -33,10 +34,12 @@ This could solutions for some of the leet code problems, this may help someones 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1227-airplane-seat-assignment-probability](https://github.com/Vignesh-M17/Leetcode-Solutions/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
+| [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/Vignesh-M17/Leetcode-Solutions/tree/main/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1227-airplane-seat-assignment-probability](https://github.com/Vignesh-M17/Leetcode-Solutions/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
+| [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/Vignesh-M17/Leetcode-Solutions/tree/main/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/) | Hard |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,4 +48,13 @@ This could solutions for some of the leet code problems, this may help someones 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1227-airplane-seat-assignment-probability](https://github.com/Vignesh-M17/Leetcode-Solutions/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
+| [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/Vignesh-M17/Leetcode-Solutions/tree/main/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/Vignesh-M17/Leetcode-Solutions/tree/main/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/Vignesh-M17/Leetcode-Solutions/tree/main/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/) | Hard |
 <!---LeetCode Topics End-->
