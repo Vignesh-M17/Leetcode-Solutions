@@ -29,4 +29,20 @@ This could solutions for some of the leet code problems, this may help someones 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Vignesh-M17/Leetcode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/Vignesh-M17/Leetcode-Solutions/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/Vignesh-M17/Leetcode-Solutions/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/Vignesh-M17/Leetcode-Solutions/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
+## Probability and Statistics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/Vignesh-M17/Leetcode-Solutions/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 <!---LeetCode Topics End-->
