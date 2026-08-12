@@ -36,6 +36,7 @@ This could solutions for some of the leet code problems, this may help someones 
 | ------- | ------- |
 | [1227-airplane-seat-assignment-probability](https://github.com/Vignesh-M17/Leetcode-Solutions/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/Vignesh-M17/Leetcode-Solutions/tree/main/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/) | Hard |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Vignesh-M17/Leetcode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,4 +68,8 @@ This could solutions for some of the leet code problems, this may help someones 
 | ------- | ------- |
 | [0283-move-zeroes](https://github.com/Vignesh-M17/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vignesh-M17/Leetcode-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Vignesh-M17/Leetcode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
