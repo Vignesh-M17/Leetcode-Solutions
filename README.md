@@ -5,6 +5,7 @@ This could solutions for some of the leet code problems, this may help someones 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0283-move-zeroes](https://github.com/Vignesh-M17/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/Vignesh-M17/Leetcode-Solutions/tree/main/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/) | Hard |
 | [1480-running-sum-of-1d-array](https://github.com/Vignesh-M17/Leetcode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Vignesh-M17/Leetcode-Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -64,5 +65,6 @@ This could solutions for some of the leet code problems, this may help someones 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0283-move-zeroes](https://github.com/Vignesh-M17/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vignesh-M17/Leetcode-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
